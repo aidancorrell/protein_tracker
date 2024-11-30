@@ -1,0 +1,1 @@
+const double defaultProteinTarget = 100.0;
